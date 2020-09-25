@@ -1,4 +1,4 @@
-# Recommender-System-Project-
+# Movie Recommender System
 Recommender System in python using autoencoders as part of Data Mining project.
 
 Contributors:
